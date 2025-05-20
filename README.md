@@ -50,6 +50,7 @@ To build a regression model that accurately predicts calorie expenditure from fe
 5. **Submission**
    - Generated predictions for the test dataset
    - Saved predictions to a submission CSV file for upload to Kaggle
+   - Last Submission Score: 0.06232
 
 ## 🚀 How to Run
 
